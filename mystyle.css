@@ -1,0 +1,284 @@
+*{
+    font-family: 'Playpen Sans', cursive;
+}
+body{ 
+    background: #979374;
+    box-sizing: border-box;
+}
+
+.Header{
+    background-size: cover;
+    width: 100%;
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.Feed{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Post1{
+    height: 500px;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 20px;
+}
+.Header1{
+    height: 50px;
+    width: 400px;
+}
+.Header1 p:first-child{
+    font-size: 20px;
+    display: inline;
+    margin-top: 15px;
+    position: absolute;
+    margin-left: 10px;
+}
+.Header1 p:nth-child(2){
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+}
+.Photo1 img{
+    width: 400px;
+    height: 300px;
+    object-fit: cover;   
+}
+.Text1{
+    text-align: center;
+}
+
+.Post2{
+    height: 500px;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 20px;
+}
+.Header2{
+    height: 50px;
+    width: 400px;
+}
+.Header2 p:first-child{
+    font-size: 20px;
+    display: inline;
+    margin-top: 15px;
+    position: absolute;
+    margin-left: 10px;
+}
+.Header2 p:nth-child(2){
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+}
+.Photo2 img{
+    width: 100%;
+    height: 300px;
+    object-fit: fill;   
+}
+.Text2{
+    text-align: center;
+}
+
+.Post3{
+    height: 500px;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 20px;
+}
+.Header3{
+    height: 50px;
+    width: 400px;
+}
+.Header3 p:first-child{
+    font-size: 20px;
+    display: inline;
+    margin-top: 15px;
+    position: absolute;
+    margin-left: 10px;
+}
+.Header3 p:nth-child(2){
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+}
+.Photo3 img{
+    width: 100%;
+    height: 300px;
+    object-fit: fill;   
+}
+.Text3{
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.Post4{
+    height: 500px;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 20px;
+}
+.Header4{
+    height: 50px;
+    width: 400px;
+}
+.Header4 p:first-child{
+    font-size: 20px;
+    display: inline;
+    margin-top: 15px;
+    position: absolute;
+    margin-left: 10px;
+}
+.Header4 p:nth-child(2){
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+}
+.Photo4 img{
+    width: 100%;
+    height: 300px;
+    object-fit: fill;   
+}
+.Text4{
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.Post5{
+    height: 500px;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 20px;
+}
+.Header5{
+    height: 50px;
+    width: 400px;
+}
+.Header5 p:first-child{
+    font-size: 20px;
+    display: inline;
+    margin-top: 15px;
+    position: absolute;
+    margin-left: 10px;
+}
+.Header5 p:nth-child(2){
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+}
+.Photo5 img{
+    width: 100%;
+    height: 300px;
+    object-fit: fill;  
+}
+.Text5{
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.Post6{
+    height: 500px;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 20px;
+}
+.Header6{
+    height: 50px;
+    width: 400px;
+}
+.Header6 p:first-child{
+    font-size: 20px;
+    display: inline;
+    margin-top: 15px;
+    position: absolute;
+    margin-left: 10px;
+}
+.Header6 p:nth-child(2){
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+}
+.Photo6 img{
+    width: 100%;
+    height: 300px;
+    object-fit: fill;  
+}
+.Text6{
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.Post7{
+    height: 500px;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 20px;
+}
+.Header7{
+    height: 50px;
+    width: 400px;
+}
+.Header7 p:first-child{
+    font-size: 20px;
+    display: inline;
+    margin-top: 15px;
+    position: absolute;
+    margin-left: 10px;
+}
+.Header7 p:nth-child(2){
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+}
+.Photo7 img{
+    width: 100%;
+    height: 300px;
+    object-fit: fill;  
+}
+.Text7{
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.Post8{
+    height: 500px;
+    width: 400px;
+    background-color: whitesmoke;
+    margin: 20px;
+}
+.Header8{
+    height: 50px;
+    width: 400px;
+}
+.Header8 p:first-child{
+    font-size: 20px;
+    display: inline;
+    margin-top: 15px;
+    position: absolute;
+    margin-left: 10px;
+}
+.Header8 p:nth-child(2){
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+}
+.Photo8 img{
+    width: 100%;
+    height: 300px;
+    object-fit: fill;  
+}
+.Text8{
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
